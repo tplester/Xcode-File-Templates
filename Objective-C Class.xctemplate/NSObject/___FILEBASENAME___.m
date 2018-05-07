@@ -1,3 +1,7 @@
+//___FILEHEADER___
+
+@import Foundation
+
 #import "___FILEBASENAME___.h"
 
 

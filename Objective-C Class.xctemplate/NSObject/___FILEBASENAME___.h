@@ -1,3 +1,7 @@
+//___FILEHEADER___
+
+@import Foundation
+
 ___IMPORTHEADER_subclass___
 
 
