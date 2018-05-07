@@ -1,7 +1,5 @@
 //___FILEHEADER___
 
-@import Foundation
-
 ___IMPORTHEADER_categoryClass___
 
 

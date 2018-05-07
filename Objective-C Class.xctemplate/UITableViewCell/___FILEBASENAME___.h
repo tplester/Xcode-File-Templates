@@ -1,7 +1,5 @@
 //___FILEHEADER___
 
-@import Foundation
-
 #pragma mark Constants
 
 extern NSString * const ___FILEBASENAMEASIDENTIFIER____Identifier;
